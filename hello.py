@@ -3,7 +3,7 @@ class Hello_World:
         pass
     
     def __str__(self) -> str:
-        return f"Hello , World!"
+        return f"Hello , World!. my name is Bagas Sukmanyo"
     
     @classmethod
     def main(cls) -> None:
