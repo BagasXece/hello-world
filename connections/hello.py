@@ -10,6 +10,5 @@ class Hello_World:
         hello = cls()
         print(hello)
         
-if __name__ == "__main__":
-    Hello_World.main()
+
 
